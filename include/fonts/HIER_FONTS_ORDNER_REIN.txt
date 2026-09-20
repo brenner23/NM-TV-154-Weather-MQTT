@@ -1,0 +1,9 @@
+Hier kommt der komplette Inhalt deines "fonts"-Ordners rein
+(also alle *pt7b.h Dateien: OCRA10pt7b.h, AGENCYB50pt7b.h, usw.).
+
+Zielpfad:  include/fonts/OCRA10pt7b.h
+           include/fonts/AGENCYB50pt7b.h
+           ...
+
+Die .ino inkludiert sie als "fonts/OCRA10pt7b.h" -> passt genau.
+Diese Textdatei danach loeschen.

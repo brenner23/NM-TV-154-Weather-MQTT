@@ -1,0 +1,11 @@
+Hier kommt der komplette Inhalt deines "icons"-Ordners rein
+(weather_icons.h, tux1_icon.h, sun_icon.h, cloud_icon.h, ... alle .h).
+
+Zielpfad:  include/icons/weather_icons.h
+           include/icons/tux1_icon.h
+           ...
+
+ACHTUNG: Das ist der UNTERORDNER "icons/".
+Die Datei "icons.h" (Vektor-Icons) liegt bereits eine Ebene hoeher
+direkt in include/ -- nicht verwechseln, beide werden gebraucht.
+Diese Textdatei danach loeschen.
