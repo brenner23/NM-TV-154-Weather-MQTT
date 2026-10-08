@@ -16,6 +16,6 @@ const char* OPENWEATHER_COUNTRY  = "DE";
 const char* OPENWEATHER_UNITS    = "metric";
 const char* OPENWEATHER_LANG     = "de";
 
-// http://api.openweathermap.org/data/2.5/forecast?q=Frelsdorf&units=metric&lang=de&appid=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+// http://api.openweathermap.org/data/2.5/forecast?q=Koeln&units=metric&lang=de&appid=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #endif
